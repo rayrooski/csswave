@@ -7,3 +7,28 @@ div {
     font-weight: 100;
     font-family: 'Roboto', sans-serif;
 }
+
+section {
+    height: 80vh;
+    border: 1px solid green;
+}
+
+p {
+    color: aqua;
+}
+
+.red {
+    color: orange;
+}
+
+#title {
+    color: black;
+}
+
+p.red {
+    color: purple;
+}
+
+.heading.red {
+    color: blue;
+}
